@@ -1,5 +1,5 @@
-# N-SVAMTssss
-Our team is from ... and we think proteins are cool 🙌
+# N-SVAMT
+Our team is from around the world and we think proteins are cool 🙌
 
 ### Project Description
 We are working on the `optimal-ph` challenge.
